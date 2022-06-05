@@ -64,7 +64,7 @@ nav,
 .header-title {
   margin: auto auto;
   font-size: 5rem;
-  color: #000000;
+  color: #fff;
   position: relative;
   font-weight: 700;
   letter-spacing: 2px;
@@ -73,7 +73,7 @@ nav,
 .today-date {
   font-size: 2rem;
   font-weight: 500;
-  color: #000000;
+  color: #fff;
 }
 
 .today-date span {
@@ -89,7 +89,7 @@ nav,
 }
 
 .social-media li a {
-  color: #000000;
+  color: #fff;
 }
 
 #about {
@@ -180,5 +180,8 @@ footer {
 
   .mks {
     display: none;
+  }
+  .header-title {
+    font-size: 35px;
   }
 }
