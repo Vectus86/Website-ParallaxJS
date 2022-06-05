@@ -165,6 +165,8 @@ footer {
 
   .social-media {
     width: 100%;
+    background: black;
+    border-radius: 3px;
   }
 
   .image-gallery {
