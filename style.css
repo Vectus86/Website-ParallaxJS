@@ -167,6 +167,7 @@ footer {
     width: 100%;
     background: black;
     border-radius: 3px;
+    padding: 0px 10px;
   }
 
   .image-gallery {
